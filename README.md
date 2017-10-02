@@ -1,6 +1,6 @@
 # vue1
 
-> vue书城 
+> vue一个的vue教程
 
 ## Build Setup
 
